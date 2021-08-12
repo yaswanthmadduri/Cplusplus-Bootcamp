@@ -1,5 +1,9 @@
 #include <iostream>
 
+
+// using namespace std; This is a directive
+// using namespace std::cout; This is using a specific object called as cout from the class "std"
+
 int main()
 {
     std::cout << "Using cout from namespace std;\n";
